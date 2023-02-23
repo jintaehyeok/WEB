@@ -1,0 +1,36 @@
+#fartherofweb {
+    color: red;
+    font-weight: bold;
+}
+
+body {
+    border: 1px solid black;
+    width: 700px;
+    height: 800px;
+}
+
+.img {
+    margin: 20px;
+}
+
+h1 {
+    margin: 20px;
+}
+
+h3 {
+    margin: 20px;
+    border-bottom: 3px dashed black;
+    color: gray;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+div {
+    margin: 30px;
+    margin-top: 60px;
+}
+
+p {
+    border-bottom: 1px solid black;
+}
